@@ -3,7 +3,7 @@
 ## FEROUELLE Grégoire
 ## 03 Septembre 2026
 ## mon-site-web-simple
-![CI](https://github.com/gregoireferouelle-svg/mon-site-web-simple/actions/workflows/ci.yml/badge.svg)
+![mon-site-web-simple](https://github.com/gregoireferouelle-svg/mon-site-web-simple)
 
 # 2. Git et GitHub
 
